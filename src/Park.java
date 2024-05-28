@@ -10,7 +10,5 @@ public class Park {
             this.workingHours = workingHours;
             this.cost = cost;
         }
-
-        }
-
+    }
     }
